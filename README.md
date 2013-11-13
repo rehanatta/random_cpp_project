@@ -1,4 +1,4 @@
-random_cpp_project
+A Random C++ Project
 ==================
 
-Current Median Filter Program
+Description: Current Median Filter Program
